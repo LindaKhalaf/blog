@@ -1,0 +1,90 @@
+/* links */
+
+a:link {text-decoration: none}
+a:visited {color: purple;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+a.link {
+    width: 200px;
+    padding: 10px 0px 10px 0px;
+    font-family: 'Average Sans', sans-serif;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    display: online;
+    color: black;
+}
+a:hover.link {
+    color: orange;
+    text-decoration: none;
+}
+
+a:link {text-decoration: none}
+a:visited {color: purple;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+/* links */
+
+/* form.php */
+
+#title{
+	background-color: red;
+}
+
+#color{
+background-color: green;
+text-align: center;
+height: 600px;
+}
+
+@media (min-width: 320px) and (max-width: 1024px) {
+/* links */
+
+a:link {text-decoration: none}
+a:visited {color: purple;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+a.link {
+    width: 200px;
+    padding: 10px 0px 10px 0px;
+    font-family: 'Average Sans', sans-serif;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    display: online;
+    color: black;
+}
+a:hover.link {
+    color: orange;
+    text-decoration: none;
+}
+
+
+
+a:link {text-decoration: none}
+a:visited {color: purple;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+/* links */
+
+/* form.php */
+
+#title{
+	background-color: red;
+}
+
+#color{
+	 -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+background-color: green;
+text-align: center;
+}
+
+}
+
