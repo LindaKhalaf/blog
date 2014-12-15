@@ -1,0 +1,148 @@
+/* links */
+
+a:link {text-decoration: none}
+a:visited {color: purple;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+a.link {
+    width: 200px;
+    padding: 10px 0px 10px 0px;
+    font-family: 'Average Sans', sans-serif;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    display: online;
+    color: black;
+}
+a:hover.link {
+    color: orange;
+    text-decoration: none;
+}
+
+a:link {text-decoration: none}
+a:visited {color: purple;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+/* links */
+
+/* form.php */
+#button_{
+	color: white;
+	background-color: orange;
+	/*border-color: purple;*/
+		margin-bottom: 360px;
+}
+
+#create_{
+	padding-top: 50px;
+
+	font-family: 'Audiowide', cursive;
+	font-size: 35px;
+}
+
+#post_{
+	font-family: 'Audiowide', cursive;
+	font-size: 25px;
+}
+
+#postLabel{
+
+}
+
+#title_{
+	font-family: 'Audiowide', cursive;
+	font-size: 25px;
+}
+
+#title_text{
+	color: orange;
+	text-align: fill;
+	width: 250px;
+	padding-left: 50px;
+}
+
+#post_text{
+	color: blue;
+	text-align: fill;
+	width: 250px;
+	padding-left: 50px;
+}
+
+#postTextBox{
+	height: 150px;
+	width: 250px;
+	font-size: 15px;
+
+}
+
+#titleTextBox{
+	height: 50px;
+	width: 250px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-size: 20px;
+}
+
+#color{
+ background-image: url('../../images/hogwarts_crest.png');
+	background-size: cover;
+	-o-background-size:cover;
+	text-align: center;
+	color: orange;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+@media (min-width: 320px) and (max-width: 1024px) {
+/* links */
+
+a:link {text-decoration: none}
+a:visited {color: purple;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+a.link {
+    width: 200px;
+    padding: 10px 0px 10px 0px;
+    font-family: 'Average Sans', sans-serif;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    display: online;
+    color: black;
+}
+a:hover.link {
+    color: orange;
+    text-decoration: none;
+}
+
+
+
+a:link {text-decoration: none}
+a:visited {color: purple;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+/* links */
+
+/* form.php */
+
+#title{
+	background-color: red;
+}
+
+#color{
+	 -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+background-color: green;
+text-align: center;
+}
+
+}
+
